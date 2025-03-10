@@ -25,6 +25,10 @@ src="https://img.shields.io/github/followers/zakpardis?logo=github&style=for-the
 <p align="left"> <a href="https://www.github.com/zakpardis" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/zakpardis" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/zakpardis" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 ### Badges
 
+![alt text](Picture.png)
+
+
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/zakpardis"><img src="https://github-readme-stats.vercel.app/api?username=zakpardis&show_icons=true&hide=&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=831843&hide_border=true&show_icons=true" alt="zakpardis's GitHub stats" /></a>
@@ -34,3 +38,6 @@ src="https://img.shields.io/github/followers/zakpardis?logo=github&style=for-the
 <a href="http://www.github.com/zakpardis"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=zakpardis&bg_color=831843&color=ffffff&line=0891b2&point=ffffff&area_color=831843&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/zakpardis" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakpardis&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=831843&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+
